@@ -15,7 +15,7 @@ body{
   padding-left: 70px;
 }
 ul{
-  list-style-type: circle;
+  list-style-type: none;
 }
 .description{
   padding-left: 90px;
