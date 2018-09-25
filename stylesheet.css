@@ -1,32 +1,40 @@
-.container {
-  color: #DA81F5;
-  font-size:80px;
-  font-family:  arial;
-  padding-left: 10px;
-  border-bottom: 2px solid #DA81F5;
-
+header{
+    background-color: #DA81F5;
+    color:white;
+    padding: 30px 0 0 30px;
+    font-size: 36px;
 }
-body{
-  font-family: arial;
-}
-.contents-title{
-  padding-left: 50px;
-}
-.list{
+section{
+  color: #AA51c5;
   padding-left: 30px;
 }
-ul{
-  list-style-type: none;
+.acbg-card{
+  text-align: center;
+  border: 2px solid #AA51c5;
+  border-radius: 10px;
+  padding:20px 10px;
+  margin:10px;
+  width:200px;
+  height: 100px;
+  display: inline-block;
 }
-.description{
-  padding-left: 70px;
-  width: auto;
+a{
+  color:#AA51c5;
 }
-
+.fas{
+  font-size:48px;
+}
 .btn{
-  padding-left: 70px;
-  opacity: 1;
+  text-align: center;
+  border: 2px solid #AA51c5;
+  border-radius: 10px;
+  width: 200px;
+  padding:10px 20px;
+  margin:10px;
 }
-.btn:hover{
-  opacity: 0.7;
+footer{
+  color: #AA51c5;
+  padding-top: 10px;
+  border-top: 2px solid #AA51c5;
+  margin:30px;
 }
