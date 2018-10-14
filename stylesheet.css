@@ -1,16 +1,20 @@
 header{
-    background-color: #DA81F5;
     color:white;
     padding: 30px 0 0 30px;
     font-size: 36px;
+    background-image: url("happa.jpg");
+    background-size: cover;
+}
+a{
+  color: #3A120A;
 }
 section{
-  color: #AA51c5;
+  color: #3A120A;
   padding-left: 30px;
 }
 .acbg-card{
   text-align: center;
-  border: 2px solid #AA51c5;
+  border: 2px solid #3A120A;
   border-radius: 10px;
   padding:20px 10px;
   margin:10px;
@@ -18,23 +22,21 @@ section{
   height: 100px;
   display: inline-block;
 }
-a{
-  color:#AA51c5;
-}
+
 .fas{
   font-size:48px;
 }
 .btn{
   text-align: center;
-  border: 2px solid #AA51c5;
+  border: 2px solid #3A120A;
   border-radius: 10px;
   width: 200px;
   padding:10px 20px;
   margin:10px;
 }
 footer{
-  color: #AA51c5;
+  color: #3A120A;
   padding-top: 10px;
-  border-top: 2px solid #AA51c5;
+  border-top: 2px solid #3A120A;
   margin:30px;
 }
